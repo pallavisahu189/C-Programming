@@ -7,6 +7,7 @@ int main() {
     float x;
     printf("enter x value :  ");
     scanf("%f",&x);
+    
     float y;
     printf("\n enter y value :  ");
     scanf("%f",&y);
