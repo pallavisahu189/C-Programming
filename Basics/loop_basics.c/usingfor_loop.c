@@ -1,5 +1,5 @@
 // Display this AP - 4,7,10,13,16.. upto ‘n’
-// terms.with out maths. WITH OUT MATHS.
+// terms.with out maths. WITH OUT MATHS
 
 #include <stdio.h>
 int main() {
