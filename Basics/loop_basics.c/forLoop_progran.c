@@ -1,5 +1,5 @@
 // Ques : Display this AP - 1,3,5,7,9.. upto ‘n’
-// terms.
+// terms..
 
 #include <stdio.h>
 int main() {
