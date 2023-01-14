@@ -1,4 +1,4 @@
-//select even number in 1 to 100
+//select even number in 1 to 100.
 
 #include <stdio.h>
 
