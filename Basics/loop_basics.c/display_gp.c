@@ -1,5 +1,5 @@
 //HW : Display this GP - 100,50,25,.. upto ‘n’
-//terms.
+//terms..
 
 #include <stdio.h>
 int main() {
