@@ -1,5 +1,5 @@
 //Print the table of ‘n’. Here ‘n’ is a integer
-//which user will input.
+//which user will input..
 
 #include <stdio.h>
 int main() {
