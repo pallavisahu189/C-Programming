@@ -1,5 +1,5 @@
 // Display this AP - 4,7,10,13,16.. upto ‘n’
-// terms.
+// terms..
 
 #include <stdio.h>
 int main() {
