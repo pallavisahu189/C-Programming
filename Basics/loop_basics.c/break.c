@@ -12,14 +12,21 @@ int main() {
     for(int i=2; i<=n-1; i++){
         if(n%i==0){
             a = 1;
+            printf("its composite number");
             break;
+            
         }
     }
-    if(n==1)
-    printf("1 is neither prime nor composite\n");
-    else if(a==0)
-    printf("the given number is a prime \n");
-    else("the given number is composite\n");
-
+    if(n==1){
+        printf("1 is neither prime nor composite\n");
+    }
+    else if(n==0)
+    {
+        printf("the given number is a prime \n");
+    }
+    else{
+    ("the given number is composite\n");
+    }
+   
     return 0;
 }
