@@ -12,7 +12,7 @@ int main() {
         n=n/10;
         count++;
     }
-        printf("The on o digits are %d", count);
- 
+
+     printf("The on o digits are %d", count);
     return 0;
 }
