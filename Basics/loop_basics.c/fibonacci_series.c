@@ -1,3 +1,5 @@
+//print first 'n' fibonacci number.
+
 #include<stdio.h>
 
 int main()
