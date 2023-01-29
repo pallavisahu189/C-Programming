@@ -1,10 +1,9 @@
-// pattern printing
-//HW : Print the given pattern
+// Ques : Print the given pattern
 
-//****
-//****
-//****
-//****
+// 1 2 3 4
+// 1 2 3 4
+// 1 2 3 4
+// 1 2 3 4
 
 #include <stdio.h>
 
@@ -14,8 +13,8 @@ int main() {
     scanf("%d",&n);
     
     for(int i=1; i<=n; i++){
-        for(int i=1; i<=n; i++){
-            printf("*");
+        for(int j=1; j<=n; j++){
+            printf("%d ",j);
         }
         printf("\n");
     }
